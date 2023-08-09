@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "211437785676",
+    "project_id": "health-ai-0908232015",
+    "storage_bucket": "health-ai-0908232015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211437785676:android:b665017dc3dd16fc165ae9",
+        "android_client_info": {
+          "package_name": "com.rmd.business.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211437785676-blmrdt3el06cdkomov9ve2t98tpu5ql8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rmd.business.healthai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "211437785676-rqf5jvsn4d1ilk37q8cfdd0np2kcgv7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZdtrO2puvNyQaz5J0Q96mUQwal4vlet0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211437785676-lkkqg2oo3qreuoc68qivfv99rbm54kar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211437785676-80g3ca7pe0na8aeloeev95mj6v621v8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rmd.business.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
