@@ -187,7 +187,6 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                             .where('appointmentPerson',
                                 isEqualTo: currentUserReference)
                             .orderBy('appointmentTime'),
-                        limit: 1,
                       ),
                       builder: (context, snapshot) {
                         // Customize what your widget looks like when it's loading.
